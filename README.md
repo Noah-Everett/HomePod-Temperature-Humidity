@@ -9,6 +9,6 @@
 
 3) Make automations like this: (make sure to select "Run Imediatly" when creating the automation)
 
-![Automations.png](./Automations.png)
+<img src="Automations.png" alt="Automations" width="200"/>
 
 4) Run [plot.ipynb](https://github.com/Noah-Everett/HomePod-Temperature-Humidity/blob/main/plot.ipynb) to read in, analyze, and plot the data.
