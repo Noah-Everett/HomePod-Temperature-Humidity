@@ -13,4 +13,4 @@
 
 4) Run [plot.ipynb](https://github.com/Noah-Everett/HomePod-Temperature-Humidity/blob/main/plot.ipynb) to read in, analyze, and plot the data.
 
-<img src="plot.png" alt="Plot" width="600"/>
+<img src="Plot.png" alt="Plot" width="600"/>
