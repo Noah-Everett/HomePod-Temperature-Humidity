@@ -11,6 +11,8 @@
 
 <img src="Automations.png" alt="Automations" width="200"/>
 
-4) Run [plot.ipynb](https://github.com/Noah-Everett/HomePod-Temperature-Humidity/blob/main/plot.ipynb) to read in, analyze, and plot the data.
+4) (This is not an actionable step) Your note should look similar to [ExampleNote.txt](https://github.com/Noah-Everett/HomePod-Temperature-Humidity/blob/main/ExampleNote.txt) but with your data.
+
+5) Run [plot.ipynb](https://github.com/Noah-Everett/HomePod-Temperature-Humidity/blob/main/plot.ipynb) to read in, analyze, and plot the data.
 
 <img src="Plot.png" alt="Plot" width="600"/>
